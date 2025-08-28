@@ -1,4 +1,4 @@
-# Jointures en SQL
+# Sous-requête SQL
 
 Chaque partie correspond à une compétence ou une notion particulière, et contient les fichiers SQL et jeux de données associés.
 
