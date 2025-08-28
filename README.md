@@ -1,12 +1,11 @@
 # Jointures en SQL
 
-intro a mettre ici
 Chaque partie correspond à une compétence ou une notion particulière, et contient les fichiers SQL et jeux de données associés.
 
-## Partie 1 – Jointure de base
+## Partie 1 – Analyse financière avec sous-requêtes
 
-Objectif : découvrir les bases du langage SQL (SELECT, WHERE, conditions, opérateurs logiques, CASE, IF, etc.).
+Objectif : illustrer l’utilisation des sous-requêtes (subqueries) pour éviter la création de tables intermédiaires inutiles.
 
 Fichiers :
-- `1-basic_queries.sql` : requêtes sur les clients (sélection, filtres, création de colonnes, panier moyen).
-- `1-products.csv`, `1-products_segments.csv`, `1-promotions.csv`, `1-prices.csv`, `1-stocks.csv`, `1-categories.csv`, `1-sales_last3months.csv` : datasets.
+- `finance_analysis.sql` : script SQL contenant toutes les requêtes utilisant des sous-requêtes (WITH ... AS) au lieu de tables intermédiaires.
+- `1-sales_data.csv`, `1-shipping_data.csv`, `1-marketing_campaigns.csv` : datasets.
