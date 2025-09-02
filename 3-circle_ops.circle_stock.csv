@@ -1,0 +1,469 @@
+model_id,model_name,color,color_name,size,new,forecast_stock,stock,price
+ACC001-B01-BL-L,Gourde plastique recyclé - Protect 750 ml,BL,Black,L,0,0,0,6
+ACC002-B02-PI-S,Gourde - Sunrise 500 ml,PI,Recycled plastic,S,0,0,0,6
+ACC003-M01-WH,Tapis de yoga recyclé - F3,WH,White,,0,37,37,8
+ACC004-B03-POP-L,Gourde - Protect 750 ml,ALU,Aluminium,L,0,48,36,10
+ACC005-B04-SUN-S,Gourde - Protect 600 ml,ALU,Aluminium,M,0,26,26,10
+ACC006AR01-M02,Tapis de yoga - Alexandra Rosenfeld - Cork,CO,Cork,,0,20,20,15
+ACC007AR01-B05-L,Gourde Alexandre Rosenfeld,WH,White,M,0,21,13,12
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,M,1,100,100,24
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,L,1,50,50,24
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,S,1,40,40,24
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,XL,1,30,30,24
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,XS,1,20,20,24
+BR001AR01-JL02-W,BRASSIERE YVETTE,BL,Black,XXL,1,10,10,24
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,M,0,165,129,16
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,S,0,104,104,16
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,L,0,69,69,16
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,XS,0,46,22,16
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,XXL,0,41,17,16
+BR001P1-JL02-W,Brassière Support Me Softly,BL,Black,XL,0,32,8,16
+BR001P3-JL02-W,Brassière Support Me Softly,MO,Moss,M,0,620,620,21
+BR001P3-JL02-W,Brassière Support Me Softly,MO,Moss,XL,0,95,95,21
+BR001P3-JL02-W,Brassière Support Me Softly,NA,Navy,M,0,179,74,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,M,0,81,69,21
+BR001P3-JL02-W,Brassière Support Me Softly,MO,Moss,S,0,75,55,21
+BR001P3-JL02-W,Brassière Support Me Softly,NA,Navy,L,0,54,42,21
+BR001P3-JL02-W,Brassière Support Me Softly,MO,Moss,L,0,75,39,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,S,0,54,38,21
+BR001P3-JL02-W,Brassière Support Me Softly,NA,Navy,XS,0,22,22,21
+BR001P3-JL02-W,Brassière Support Me Softly,NA,Navy,XL,0,49,19,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,XL,0,20,10,21
+BR001P3-JL02-W,Brassière Support Me Softly,MO,Moss,XS,0,0,0,21
+BR001P3-JL02-W,Brassière Support Me Softly,NA,Navy,S,0,0,0,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,XS,0,0,0,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,L,0,0,0,21
+BR001P3-JL02-W,Brassière Support Me Softly,EB,Electric Blue,XXL,0,0,0,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,XL,0,309,309,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,S,0,307,307,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,M,0,266,266,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,L,0,145,145,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,L,0,140,140,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,M,0,130,130,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,M,0,127,127,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,L,0,112,112,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,S,0,101,101,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,XL,0,84,84,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,M,0,74,74,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,XS,0,67,67,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,XS,0,66,66,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,L,0,52,52,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,XXL,0,52,52,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,XL,0,46,46,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,XS,0,39,39,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,S,0,47,35,21
+BR002P3-JL02-W,Brassière Level Up,BL,Black,XXL,0,29,17,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,XXL,0,31,13,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,XXL,0,13,13,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,L,0,12,12,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,XXL,0,10,10,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,XL,0,22,10,21
+BR002P3-JL02-W,Brassière Level Up,EB,Electric Blue,XL,0,9,9,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,XS,0,9,9,21
+BR002P3-JL02-W,Brassière Level Up,BU,Burgundy Red,S,0,36,9,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,XS,0,14,8,21
+BR002P3-JL02-W,Brassière Level Up,NA,Navy,M,0,1,1,21
+BR002P3-JL02-W,Brassière Level Up,MO,Moss,S,0,84,0,21
+LG001P1-JL02-W,Legging Get in Shape,BL,Black,S,0,131,131,21
+LG001P1-JL02-W,Legging Get in Shape,BL,Black,M,0,105,85,21
+LG001P1-JL02-W,Legging Get in Shape,BL,Black,XS,0,63,63,21
+LG001P1-JL02-W,Legging Get in Shape,BL,Black,L,0,61,61,21
+LG001P1-JL02-W,Legging Get in Shape,BL,Black,XL,0,0,0,21
+LG002AR01-JL02-W,Legging Ava,BL,Black,M,0,83,83,24
+LG002AR01-JL02-W,Legging Ava,BL,Black,S,0,60,60,24
+LG002AR01-JL02-W,Legging Ava,BL,Black,L,0,63,33,24
+LG002AR01-JL02-W,Legging Ava,BL,Black,XL,0,66,16,24
+LG002AR01-JL02-W,Legging Ava,BL,Black,XXL,0,61,11,24
+LG002AR01-JL02-W,Legging Ava,BL,Black,XS,0,58,8,24
+LG002P3-JL02-W,Legging Get in Shape,MO,Moss,M,0,326,326,21
+LG002P3-JL02-W,Legging Get in Shape,MO,Moss,L,0,54,54,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,M,0,148,52,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,M,0,51,51,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,M,0,43,43,21
+LG002P3-JL02-W,Legging Get in Shape,MO,Moss,XL,0,42,42,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,S,0,63,39,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,S,0,57,37,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,L,0,34,34,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,L,0,40,34,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,L,0,42,26,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,XL,0,36,24,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,XS,0,23,23,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,S,0,46,22,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,XL,0,33,21,21
+LG002P3-JL02-W,Legging Get in Shape,EB,Electric Blue,XXL,0,20,20,21
+LG002P3-JL02-W,Legging Get in Shape,MO,Moss,S,0,19,19,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,XS,0,25,17,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,XS,0,14,14,21
+LG002P3-JL02-W,Legging Get in Shape,MO,Moss,XS,0,10,10,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,XXL,0,21,9,21
+LG002P3-JL02-W,Legging Get in Shape,BU,Burgundy Red,XL,0,52,4,21
+LG002P3-JL02-W,Legging Get in Shape,BL,Black,XXL,0,4,4,21
+LG002P3-JL02-W,Legging Get in Shape,NA,Navy,XXL,0,0,0,21
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,M,0,175,175,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,S,0,131,131,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,M,0,85,85,23
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,S,0,42,42,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,XXL,0,38,38,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,L,0,29,29,23
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,XS,0,27,27,23
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,L,0,55,7,23
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,XXL,0,0,0,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,XS,0,0,0,23
+LG003P3-JL02-M,Legging Men in Tights,MO,Moss,XL,0,42,0,23
+LG003P3-JL02-M,Legging Men in Tights,BL,Black,XL,0,46,-2,23
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,M,1,100,100,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,M,1,100,100,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,L,1,50,50,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,L,1,50,50,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,L,1,50,50,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,S,1,40,40,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,S,1,40,40,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,S,1,40,40,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,XL,1,30,30,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,M,1,258,30,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,XL,1,30,30,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,XL,1,30,30,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,XS,1,20,20,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,XS,1,20,20,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,XS,1,20,20,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,NA,Navy,XXL,1,10,10,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,BL,Black,XXL,1,10,10,21
+LG53001P3-JL02-W,Legging Get in Shape - The 53,MO,Moss,XXL,1,10,10,21
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,M,0,197,97,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,XL,0,75,75,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,XL,0,84,72,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,M,0,72,54,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,L,0,48,48,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,L,0,87,39,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,S,0,61,37,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,XS,0,34,22,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,XS,0,14,14,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,BL,Black,XXL,0,0,0,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,S,0,0,0,20
+LS001P3-SL02-M,Haut à manches longues - Homme - Motivation,GR,Granite Grey,XXL,0,0,0,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,M,0,269,269,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,M,0,278,182,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,S,0,155,155,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,XL,0,96,72,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,L,0,97,61,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,XXL,0,44,44,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,S,0,105,39,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,BL,Black,XS,0,34,34,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,XXL,0,34,34,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,XL,0,28,28,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,L,0,81,21,20
+LS001P3-SL02-W,Haut à manches longues - Femme - Motivation,GR,Granite Grey,XS,0,0,0,20
+SH001P1-SL01-M,Short Sport One For All,NA,Navy,M,1,100,100,32
+SH001P1-SL01-M,Short Sport One For All,NA,Navy,L,1,50,50,32
+SH001P1-SL01-M,Short Sport One For All,NA,Navy,S,1,40,40,32
+SH001P1-SL01-M,Short Sport One For All,NA,Navy,XL,1,30,30,32
+SH001P1-SL01-M,Short Sport One For All,NA,Navy,XS,1,20,20,32
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,M,0,100,100,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,M,0,100,100,20
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,L,0,50,50,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,L,0,50,50,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,L,1,50,50,20
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,S,0,40,40,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,S,0,40,40,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,S,1,40,40,20
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,XL,0,30,30,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,XL,0,30,30,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,XL,1,30,30,20
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,XS,0,20,20,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,XS,0,20,20,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,XS,1,20,20,20
+SH002P3-JL02-W,Short de sport femme Back On Track,BL,Black,XXL,0,10,10,20
+SH002P3-JL02-W,Short de sport femme Back On Track,MO,Moss,XXL,0,10,10,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,XXL,1,10,10,20
+SH002P3-JL02-W,Short de sport femme Back On Track,NA,Navy,M,1,95,5,20
+SH003P02-SL01-M,Short Sport One For All,BL,Black,M,0,66,66,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,L,0,50,50,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,S,0,44,44,32
+SH003P02-SL01-M,Short Sport One For All,BL,Black,S,0,37,37,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,XL,0,20,20,32
+SH003P02-SL01-M,Short Sport One For All,BL,Black,XL,0,15,15,32
+SH003P02-SL01-M,Short Sport One For All,BL,Black,L,0,11,11,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,XS,1,10,10,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,M,0,69,9,32
+SH003P02-SL01-M,Short Sport One For All,BL,Black,XS,0,5,5,32
+SH003P02-SL01-M,Short Sport One For All,BL,Black,XXL,0,5,5,32
+SH003P02-SL01-M,Short Sport One For All,LI,Lilac,XXL,0,0,0,32
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,S,0,79,79,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,M,0,72,72,20
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,M,0,195,65,20
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,L,0,48,30,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,L,0,41,29,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,XXL,0,29,29,20
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,XL,0,43,27,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,XL,0,25,25,20
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,XXL,0,68,23,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,L,0,21,21,20
+SH004P2-JL02-M,Short de Compression Hit The Road,BL,Black,XS,0,19,19,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,S,0,31,19,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,XXL,0,15,15,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,XL,0,14,14,20
+SH004P2-JL02-M,Short de Compression Hit The Road,MO,Moss,XS,0,17,11,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,XS,0,27,0,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,S,0,60,0,20
+SH004P2-JL02-M,Short de Compression Hit The Road,NA,Navy,M,0,174,0,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,M,0,325,325,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,M,0,244,244,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,S,0,142,142,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,S,0,117,117,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,M,0,163,103,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,L,0,96,96,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,XL,0,94,94,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,XL,0,63,63,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,XS,0,74,34,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,L,0,61,21,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,XL,0,3,3,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,L,0,90,0,20
+SH15001P3-JL02-W,Short Get Shorty,BL,Black,XXL,0,0,0,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,XS,0,0,0,20
+SH15001P3-JL02-W,Short Get Shorty,EB,Electric Blue,XXL,0,0,0,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,XS,0,0,0,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,S,0,0,0,20
+SH15001P3-JL02-W,Short Get Shorty,NA,Navy,XXL,0,0,0,20
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,M,1,100,100,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,M,1,100,100,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,S,1,100,100,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,M,1,100,100,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,L,1,50,50,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,L,1,50,50,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,XL,1,50,50,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,L,1,50,50,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,S,1,40,40,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,S,1,40,40,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,M,1,40,40,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,S,1,40,40,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,XL,1,30,30,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,XL,1,30,30,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,XS,1,30,30,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,XL,1,30,30,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,XS,1,20,20,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,XS,1,20,20,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,L,1,20,20,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,XS,1,20,20,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),BL,Black,XXL,1,10,10,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),LI,Lilac,XXL,1,10,10,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),MO,Moss,XXL,1,10,10,32
+SHNB003P02-SL01,Short de Sport One For All (No Net),NA,Navy,XXL,1,10,10,32
+SHSF-EP,Short sans filet  - Episod,BL,Black,M,1,100,100,23
+SHSF-EP,Short sans filet  - Episod,BL,Black,L,1,50,50,23
+SHSF-EP,Short sans filet  - Episod,BL,Black,S,1,40,40,23
+SHSF-EP,Short sans filet  - Episod,BL,Black,XL,1,30,30,23
+SHSF-EP,Short sans filet  - Episod,BL,Black,XS,1,20,20,23
+SHSF-EP,Short sans filet  - Episod,BL,Black,XXL,1,10,10,23
+SN001P01-JL01-U,Tour de cou - L'Infini,SA,Sand,,0,26,6,5
+SN001P01-JL01-U,Tour de cou - L'Infini,BL,Black,,0,0,0,5
+SN001P01-JL01-U,Tour de cou - L'Infini,MO,Moss,,0,0,0,5
+SN001P01-JL01-U,Tour de cou - L'Infini,GR,Granite Grey,,0,0,0,5
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,SA,Sand,S,0,245,245,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,BL,Black,M,0,157,197,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,SA,Sand,XS,0,22,22,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,BL,Black,L,0,20,20,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,BL,Black,XL,0,19,19,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,SA,Sand,XL,0,10,10,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,BL,Black,XS,0,14,8,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,BL,Black,S,0,29,5,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,SA,Sand,L,0,11,2,16
+TK001P3-FJ01_W,Débardeur de sport Get Comfy,SA,Sand,M,0,25,1,16
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,M,0,143,143,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,M,0,129,129,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,L,0,51,51,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,S,0,51,51,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,M,0,35,35,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,S,0,34,34,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,M,0,33,33,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,L,0,28,28,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,XL,0,20,20,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,XL,0,20,20,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,XXL,0,20,20,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,XS,0,20,20,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,S,0,16,16,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,S,0,15,15,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,XS,0,10,10,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BL,Black,XXL,0,10,10,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,XS,0,10,10,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,XL,0,10,10,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,L,0,7,7,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,SA,Sand,XXL,0,5,5,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,XS,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,S,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,L,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,XL,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,MO,Moss,XXL,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,XS,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,L,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,XL,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,BU,Burgundy Red,XXL,0,0,0,18
+TK001P3-FJ01-M,Haut sans manche Muscle Tee,LI,Lilac,M,0,198,-2,18
+TK001P3-FJ01-W,Débardeur de sport Get Comfy,LI,Lilac,XL,0,68,68,16
+TK001P3-FJ01-W,Débardeur de sport Get Comfy,LI,Lilac,L,0,51,39,16
+TK001P3-FJ01-W,Débardeur de sport Get Comfy,LI,Lilac,M,0,40,28,16
+TK001P3-FJ01-W,Débardeur de sport Get Comfy,LI,Lilac,XS,0,24,24,16
+TK001P3-FJ01-W,Débardeur de sport Get Comfy,LI,Lilac,S,0,43,19,16
+TK001P3-TT01-W,Débardeur Get Comfy Quick Dry,GG,Grey,M,0,165,153,16
+TK001P3-TT01-W,Débardeur Get Comfy Quick Dry,GG,Grey,XL,0,27,27,16
+TK001P3-TT01-W,Débardeur Get Comfy Quick Dry,GG,Grey,S,0,56,26,16
+TK001P3-TT01-W,Débardeur Get Comfy Quick Dry,GG,Grey,L,0,24,24,16
+TK001P3-TT01-W,Débardeur Get Comfy Quick Dry,GG,Grey,XS,0,35,5,16
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,MO,Moss,M,0,83,83,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,BL,Black,L,0,71,71,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,BL,Black,M,0,45,45,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,NA,Navy,S,0,62,38,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,MO,Moss,S,0,58,34,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,MO,Moss,L,0,29,29,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,BL,Black,XL,0,24,24,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,BL,Black,S,0,23,23,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,NA,Navy,L,0,41,23,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,NA,Navy,XS,0,21,21,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,MO,Moss,XS,0,20,20,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,NA,Navy,XL,0,17,17,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,NA,Navy,M,0,39,15,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,BL,Black,XS,0,16,8,32
+TK002P3-FJ01-W,Débardeur de sport Free Your Mind,MO,Moss,XL,0,0,0,32
+TK002P3-TT01-W,Débardeur de sport Free Your Mind,GG,Grey,M,0,53,53,16
+TK002P3-TT01-W,Débardeur de sport Free Your Mind,GG,Grey,S,0,37,37,16
+TK002P3-TT01-W,Débardeur de sport Free Your Mind,GG,Grey,XS,0,16,16,16
+TK002P3-TT01-W,Débardeur de sport Free Your Mind,GG,Grey,XL,0,3,3,16
+TK002P3-TT01-W,Débardeur de sport Free Your Mind,GG,Grey,L,0,0,0,16
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,WH,White,M,1,100,100,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,BL,Black,M,1,100,100,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,MO,Moss,M,1,100,100,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,WH,White,L,1,50,50,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,BL,Black,L,1,50,50,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,MO,Moss,L,1,50,50,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,WH,White,S,1,40,40,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,BL,Black,S,1,40,40,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,MO,Moss,S,1,40,40,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,WH,White,XL,1,30,30,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,BL,Black,XL,1,30,30,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,MO,Moss,XL,1,30,30,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,WH,White,XS,1,20,20,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,BL,Black,XS,1,20,20,21
+TS001-FJ01-U,T-shirt sport - Original 2 NO PRINT,MO,Moss,XS,1,20,20,21
+TS001AR01-FJ01-U,T-Shirt Jim,VI,Violet,M,0,150,150,28
+TS001BTB-MAM01_U,T-shirt sport - MAAM,WH,White,XS,0,35,35,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,BL,Black,M,0,48,48,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,WH,White,L,0,200,10,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,WH,White,XL,0,150,150,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,WH,White,M,0,5,5,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,BL,Black,S,0,150,150,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,BL,Black,L,0,120,120,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,BL,Black,XL,0,110,110,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,WH,White,S,0,980,476,30
+TS001BTB-MAM01_U,T-shirt sport - MAAM,BL,Black,XS,0,0,0,30
+TS001BTB-MARATHON01-MAM01-U,T-shirt sport - Marathon Tours - MAAM,NA,Navy,M,0,250,150,30
+TS001BTB-MARATHON01-MAM01-U,T-shirt sport - Marathon Tours - MAAM,NA,Navy,XL,0,150,150,30
+TS001BTB-MARATHON01-MAM01-U,T-shirt sport - Marathon Tours - MAAM,NA,Navy,L,0,608,608,30
+TS001BTB-MARATHON01-MAM01-U,T-shirt sport - Marathon Tours - MAAM,NA,Navy,S,0,980,476,30
+TS001BTB-MARATHON01-MAM01-U,T-shirt sport - Marathon Tours - MAAM,NA,Navy,XS,0,286,286,30
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,S,0,507,407,24
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,M,0,166,166,24
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,L,0,64,64,24
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,XS,0,52,52,24
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,XL,0,14,14,24
+TS001P1-TT01-U,T-shirt Technique Agility,GR,Granite Grey,XXL,0,10,0,24
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,M,1,100,100,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,M,1,100,100,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,M,1,100,100,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,WH,White,M,1,100,100,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,L,1,50,50,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,L,1,50,50,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,L,1,50,50,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,WH,White,L,1,50,50,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,S,1,40,40,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,S,1,40,40,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,S,1,40,40,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,WH,White,S,1,40,40,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,XL,1,30,30,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,XL,1,30,30,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,XL,1,30,30,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,WH,White,XL,1,30,30,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,XS,1,20,20,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,XS,1,20,20,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,XS,1,20,20,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,WH,White,XS,1,20,20,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,BL,Black,XXL,1,10,10,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,MO,Moss,XXL,1,10,10,28
+TS001P3-FJ01_U,T-shirt de Sport Iconic,SA,Sand,XXL,1,10,10,28
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,XL,0,59,59,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,S,0,39,39,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,S,0,33,33,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,L,0,33,33,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,L,0,24,24,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,XXL,0,20,20,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,L,0,19,19,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,S,0,16,16,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,XS,0,26,14,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,XL,0,14,14,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,XXL,0,14,14,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,M,0,19,7,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,LI,Lilac,M,0,19,7,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,XS,0,24,6,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,XS,0,11,5,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,XL,0,36,0,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,BU,Burgundy Red,XXL,0,0,0,20
+TS001P3-FJ01-U,T-shirt de Sport Iconic,NA,Navy,M,0,0,0,20
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,BL,Black,M,0,150,150,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,MO,Moss,M,0,430,430,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,BL,Black,S,0,164,164,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,MO,Moss,S,0,210,96,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,MO,Moss,XL,0,72,72,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,BL,Black,L,0,125,59,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,MO,Moss,XS,0,30,30,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,MO,Moss,L,0,68,28,24
+TS001P3-FJ01-W,T-shirt de Sport Femme Get Ready,BL,Black,XL,0,92,2,24
+TS001P3-TT01-W,T-shirt de Sport Femme Get Ready,GG,Grey,S,0,44,44,24
+TS001P3-TT01-W,T-shirt de Sport Femme Get Ready,GG,Grey,XL,0,30,30,24
+TS001P3-TT01-W,T-shirt de Sport Femme Get Ready,GG,Grey,L,0,23,23,24
+TS001P3-TT01-W,T-shirt de Sport Femme Get Ready,GG,Grey,XS,0,12,12,24
+TS001P3-TT01-W,T-shirt de Sport Femme Get Ready,GG,Grey,M,0,0,0,24
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,BL,Black,XL,0,150,150,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,BL,Black,S,0,300,150,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,M,0,153,153,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,S,0,71,71,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,L,0,59,59,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,M,0,124,52,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,BL,Black,L,0,46,46,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,S,0,40,40,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,L,0,33,33,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,XL,0,22,22,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,BL,Black,XS,0,20,20,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,XS,0,19,19,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,XS,0,19,19,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,BL,Black,M,0,53,17,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,XL,0,11,11,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,LI,Lilac,XXL,0,9,9,30
+TS001P4-FJ01-U,T-shirt sport Iconic Manifesto,SA,Sand,XXL,0,-2,-2,30
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BU,Burgundy Red,L,1,40,40,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,LI,Lilac,S,1,40,40,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BL,Black,M,1,31,31,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BL,Black,L,1,30,30,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,SA,Sand,L,1,30,30,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BU,Burgundy Red,M,1,30,30,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,LI,Lilac,L,1,30,30,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BL,Black,S,1,28,28,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BL,Black,XL,1,20,20,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MO,Moss,L,1,20,20,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BU,Burgundy Red,S,1,15,15,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MO,Moss,M,1,12,12,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BU,Burgundy Red,XL,1,10,10,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BL,Black,XS,1,5,5,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,BU,Burgundy Red,XS,1,5,5,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MO,Moss,XS,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MO,Moss,S,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MO,Moss,XL,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,SA,Sand,XS,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,SA,Sand,S,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,SA,Sand,M,1,36,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,SA,Sand,XL,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MI,Minty Fresh,XS,0,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MI,Minty Fresh,S,0,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MI,Minty Fresh,M,0,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MI,Minty Fresh,L,0,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,MI,Minty Fresh,XL,0,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,LI,Lilac,XS,1,0,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,LI,Lilac,M,1,48,0,16
+TSC001P3-FJ01-W,Crop-top sport Smooth Operator,LI,Lilac,XL,1,0,0,16
