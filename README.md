@@ -16,16 +16,7 @@ Objectif : transformer et analyser les données publicitaires (AdWords, Bing, Cr
 
 Fichiers :
 - `media_performance_analysis.sql` : script complet (exploration, tests PK, UNION ALL des campagnes, joins Orders Sessions, agrégations & KPIs par source et par mois).
-- `1-sales_data.csv`, `1-shipping_data.csv`, `1-marketing_campaigns.csv` : datasets.
-2-gwz_adwords.csv
+- `2-ads_monitoring.ads_facebook.csv`, `2-ads_monitoring.ads_criteo.csv`, `2-ads_monitoring.ads_bing.csv` et `2-ads_monitoring.ads_adwords.csv` : datasets complets.
+- `2-ads_monitoring.ads_sessions.csv` et `2-ads_monitoring.ads_orders.csv` : datasets limité à 2000 lignes.
 
-2-gwz_bing.csv
-
-2-gwz_criteo.csv
-
-2-gwz_facebook.csv
-
-2-gwz_orders.csv
-
-2-gwz_sessions.csv
-⚠️ Les dataset complets (>50 Mo) n’est pas versionné pour des raisons de taille. Cet échantillon est fourni pour la démonstration, mais toutes les requêtes du script SQL sont applicables à l’intégralité du jeu de données.
+⚠️ Les dataset incomplets (>50 Mo) ne sont pas versionné pour des raisons de taille. Ces échantillons sont fourni pour la démonstration, mais toutes les requêtes du script SQL sont applicables à l’intégralité des jeux de données.
