@@ -20,3 +20,15 @@ Fichiers :
 - `2-ads_monitoring.ads_sessions.csv` et `2-ads_monitoring.ads_orders.csv` : datasets limité à 2000 lignes.
 
 ⚠️ Les dataset incomplets (>50 Mo) ne sont pas versionné pour des raisons de taille. Ces échantillons sont fourni pour la démonstration, mais toutes les requêtes du script SQL sont applicables à l’intégralité des jeux de données.
+
+## Partie 3 – Analyse média & attribution (ads)
+
+Objectif : analyser les stocks, les ventes et la performance logistique des livraisons pour identifier :
+- les modèles présents au catalogue mais jamais vendus,
+- les temps moyens, minimum et maximum de livraison par transporteur et priorité,
+- les indicateurs de chiffre d’affaires et de volume de ventes par mois.
+
+Fichiers :
+- `3-circle_analysis.sql` : script SQL regroupant les requêtes d’exploration et d’analyse (stocks, livraisons, CA).
+
+- `3-circle_ops.circle_stock.csv`, `3-circle_ops.circle_sales.csv`, `3-circle_ops.circle_parcel_product.csv` et `3-circle_ops.circle_parcel.csv` : datasets.
